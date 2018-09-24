@@ -1,5 +1,3 @@
-from caesar import rotate_string
-
 def alphabet_position(character):
     alphabet = 'abcdefghijklmnopqrstuvwxyz'
     lower = character.lower()
